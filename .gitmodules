@@ -1,0 +1,3 @@
+[submodule "newsletter"]
+	path = www.cbinsights.com/newsletter
+	url = git@github.com:StevenDRiggs/cbinsights-newsletter.git
